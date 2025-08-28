@@ -1,3 +1,5 @@
+#question 1:    implement the Euclidean algorithm 
+
 
 def eucludian(a,b):
     if(a<=0):
