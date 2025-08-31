@@ -1,3 +1,5 @@
+#question 1:    implement the Euclidean algorithm 
+
 
 def eucludian(a,b):
     if(a<=0):
@@ -12,4 +14,4 @@ a=int(input("number a:"))
 b=int (input("number b:"))
 
 
-print(eucludian(a,b))
+print("gcd(a,b):",eucludian(a,b))
